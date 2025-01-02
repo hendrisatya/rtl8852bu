@@ -1,3 +1,11 @@
+Notice: A new version of this driver is now available:
+
+https://github.com/morrownr/rtl8852bu-20240418
+
+This new version is much better than the version here so please
+move over to the new driver as soon as you can. I plan to take
+this driver down by 2024-03-01.
+
 ## rtl8852bu ( 8852bu.ko ) :rocket:
 
 ## Linux Driver for USB WiFi Adapters that are based on the RTL8832BU and RTL8852BU Chipsets
